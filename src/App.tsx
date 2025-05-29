@@ -1,19 +1,19 @@
-import Arrow32 from './components/icon/32px/Arrow32';
-import Cart32 from './components/icon/32px/Cart32';
-import Favorite32 from './components/icon/32px/Favorite32';
-import Like32 from './components/icon/32px/Like32';
-import User32 from './components/icon/32px/User32';
-import Burger40 from './components/icon/40px/Burger40';
+import Camera48 from './components/icon/48px/Camera48';
+import Computer48 from './components/icon/48px/Computer48';
+import Gaming48 from './components/icon/48px/Gaming48';
+import Headphone48 from './components/icon/48px/Headphone48';
+import Phone48 from './components/icon/48px/Phone48';
+import SmartWatch48 from './components/icon/48px/SmartWatch48';
 
 function App() {
   return (
     <div className="flex flex-col justify-center items-center bg-green-200 gap-2">
-      <Arrow32 />
-      <Cart32 />
-      <Favorite32 />
-      <Like32 />
-      <User32 />
-      <Burger40 />
+      <Camera48 />
+      <Computer48 />
+      <Gaming48 />
+      <Headphone48 />
+      <Phone48 />
+      <SmartWatch48 />
     </div>
   );
 }
