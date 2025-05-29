@@ -3,6 +3,7 @@ import Cart32 from './components/icon/32px/Cart32';
 import Favorite32 from './components/icon/32px/Favorite32';
 import Like32 from './components/icon/32px/Like32';
 import User32 from './components/icon/32px/User32';
+import Burger40 from './components/icon/40px/Burger40';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Favorite32 />
       <Like32 />
       <User32 />
+      <Burger40 />
     </div>
   );
 }
